@@ -81,8 +81,10 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blitzhac&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3" width="45%"/>
 </p>
 
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Blitzhac&theme=dark&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blitzhac&bg_color=0D1117&color=00C6FF&line=00C6FF&point=e6edf3&area=true&hide_border=true&area_color=00C6FF" width="90%"/>
 </p>
 
 ---
