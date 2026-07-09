@@ -64,19 +64,19 @@ fun_fact: Won the Hult Prize campus round 🏆
 
 <p align="center">
   <a href="https://github.com/Blitzhac/datapure">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=datapure&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=datapure&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3&icon_color=00C6FF" />
   </a>
   <a href="https://github.com/Blitzhac/sentineliq">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=sentineliq&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=sentineliq&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3&icon_color=00C6FF" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Blitzhac/resume-scorer">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=resume-scorer&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=resume-scorer&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3&icon_color=00C6FF" />
   </a>
   <a href="https://github.com/Blitzhac/Portfolio-Projects">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=Portfolio-Projects&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=Portfolio-Projects&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3&icon_color=00C6FF" />
   </a>
 </p>
 
@@ -93,16 +93,16 @@ fun_fact: Won the Hult Prize campus round 🏆
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Blitzhac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Blitzhac&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Blitzhac&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3&icon_color=00C6FF" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Blitzhac&hide_border=true&background=0D1117&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideNums=e6edf3&currStreakNum=e6edf3&sideLabels=e6edf3&dates=8b949e" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blitzhac&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blitzhac&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blitzhac&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Blitzhac&theme=dark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
