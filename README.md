@@ -10,21 +10,13 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=650&height=50&lines=Data+Scientist+%26+Analytics+Engineer;Building+datapure+%F0%9F%93%A6+on+PyPI;Fraud+Detection+with+SentinelIQ+%F0%9F%94%8D;Turning+raw+data+into+decisions;Open+to+Data%2FML+roles+%F0%9F%9A%80"/>
 </a>
 
-<!-- Live visitor counter for extra flair -->
-<img src="https://komarev.com/ghpvc/?username=Blitzhac&style=flat-square&color=00C6FF" alt="profile views"/>
-
 </div>
 
 <br>
 
-<!-- Socials -->
-<p align="center">
-  <a href="https://github.com/Blitzhac"><img src="https://img.shields.io/badge/GitHub-Blitzhac-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,git,github,docker,vscode,powerbi,fastapi,aws&theme=dark" />
@@ -40,7 +32,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/Blitzhac/datapure">
@@ -70,7 +62,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Blitzhac&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3&icon_color=00C6FF" width="48%"/>
@@ -81,7 +73,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blitzhac&layout=donut-vertical&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=e6edf3" width="45%"/>
 </p>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blitzhac&bg_color=0D1117&color=00C6FF&line=00C6FF&point=e6edf3&area=true&hide_border=true&area_color=00C6FF" width="90%"/>
@@ -91,7 +83,7 @@
 
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
 I'm actively open to Data Analytics, BI, Data Science, and ML Engineering roles — feel free to reach out!
 
