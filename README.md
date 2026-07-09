@@ -18,15 +18,19 @@
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-00C6FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/python/00C6FF" width="32" height="32"/><br/>Python</td>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/powerbi/00C6FF" width="32" height="32"/><br/>Power BI</td>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/mysql/00C6FF" width="32" height="32"/><br/>SQL</td>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/docker/00C6FF" width="32" height="32"/><br/>Docker</td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/amazonaws/00C6FF" width="32" height="32"/><br/>AWS</td>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/git/00C6FF" width="32" height="32"/><br/>Git</td>
+    <td align="center" width="140"><img src="https://cdn.simpleicons.org/jupyter/00C6FF" width="32" height="32"/><br/>Jupyter Notebook</td>
+  </tr>
+</table>
 
 ---
 
