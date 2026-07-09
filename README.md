@@ -2,7 +2,7 @@
 
 <!-- Cursive animated name heading -->
 <a href="https://github.com/Blitzhac">
-  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=55&duration=3000&pause=100000&color=00C6FF&center=true&vCenter=true&width=650&height=90&repeat=false&lines=Hi+There%2C+I+am+Basil+%F0%9F%91%8B"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=55&duration=3000&pause=100000&color=00C6FF&center=true&vCenter=true&width=650&height=90&repeat=false&lines=Hi+There%2C+I+am+Basil"/>
 </a>
 
 <!-- Multi-line typing animation -->
