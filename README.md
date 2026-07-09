@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://capsule-render.com/api?type=waving&color=0:0F2027,50:2C5364,100:00C6FF&height=220&section=header&text=Hi%20There,%20I'm%20Basil%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20ML%20%7C%20BI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<!-- Dynamic gradient wave banner -->
+<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Basil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 
+<!-- Multi-line typing animation -->
 <a href="https://github.com/Blitzhac">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%26+Analytics+Engineer;Building+datapure+%F0%9F%93%A6+on+PyPI;Turning+raw+data+into+decisions;Always+shipping+something+new;Open+to+Data%2FML+roles+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00C6FF&vCenter=true&size=22&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=00C6FF&center=true&vCenter=true&width=650&height=50&lines=Data+Scientist+%26+Analytics+Engineer;Building+datapure+%F0%9F%93%A6+on+PyPI;Fraud+Detection+with+SentinelIQ+%F0%9F%94%8D;Turning+raw+data+into+decisions;Open+to+Data%2FML+roles+%F0%9F%9A%80"/>
 </a>
+
+<!-- Live visitor counter for extra flair -->
+<img src="https://komarev.com/ghpvc/?username=Blitzhac&style=flat-square&color=00C6FF" alt="profile views"/>
 
 </div>
 
@@ -62,10 +66,27 @@ fun_fact: Won the Hult Prize campus round 🏆
   <a href="https://github.com/Blitzhac/datapure">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=datapure&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Blitzhac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=SentinelIQ&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Blitzhac/sentineliq">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=sentineliq&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Blitzhac/resume-scorer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=resume-scorer&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Blitzhac/Portfolio-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=Portfolio-Projects&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧹 **[datapure](https://github.com/Blitzhac/datapure)** | Production-grade Python data preprocessing library — AI-assisted cleaning, Polars-powered performance, CLI, published to PyPI | `Python` `Polars` `PyPI` |
+| 🕵️ **[sentineliq](https://github.com/Blitzhac/sentineliq)** | End-to-end fraud detection & BI platform over 284k+ transactions — FAISS-based RAG, FastAPI backend, Docker, Streamlit dashboard | `FAISS` `FastAPI` `Docker` `Streamlit` |
+| 📄 **[resume-scorer](https://github.com/Blitzhac/resume-scorer)** | Resume / LinkedIn / GitHub scorer — analyzes and rates a candidate's public profile strength | `Python` |
+| 📂 **[Portfolio-Projects](https://github.com/Blitzhac/Portfolio-Projects)** | Collection of collaborative data science projects (crop prediction, penguin clustering, and more) | `Jupyter` `Python` |
+| 🌐 **[basilanil.github.io](https://github.com/Blitzhac/basilanil.github.io)** | Personal portfolio site — [basilanil.com](http://www.basilanil.com/) | `HTML` `CSS` |
 
 ---
 
