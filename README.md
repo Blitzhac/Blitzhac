@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic gradient wave banner -->
-<img src="https://capsule-render.com/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Basil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%2C%20I%20am%20Basil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 
 <!-- Multi-line typing animation -->
 <a href="https://github.com/Blitzhac">
@@ -64,19 +64,19 @@ fun_fact: Won the Hult Prize campus round 🏆
 
 <p align="center">
   <a href="https://github.com/Blitzhac/datapure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=datapure&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=datapure&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Blitzhac/sentineliq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=sentineliq&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=sentineliq&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Blitzhac/resume-scorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=resume-scorer&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=resume-scorer&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/Blitzhac/Portfolio-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blitzhac&repo=Portfolio-Projects&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Blitzhac&repo=Portfolio-Projects&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -93,12 +93,12 @@ fun_fact: Won the Hult Prize campus round 🏆
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blitzhac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blitzhac&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Blitzhac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Blitzhac&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blitzhac&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Blitzhac&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 <p align="center">
@@ -113,6 +113,6 @@ fun_fact: Won the Hult Prize campus round 🏆
 
 I'm actively open to Data Analytics, BI, Data Science, and ML Engineering roles — feel free to reach out!
 
-<img src="https://capsule-render.com/api?type=waving&color=0:00C6FF,100:0F2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0F2027&height=100&section=footer"/>
 
 </div>
