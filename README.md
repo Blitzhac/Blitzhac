@@ -21,12 +21,12 @@
 <table align="center">
   <tr>
     <td align="center" width="140"><img src="https://cdn.simpleicons.org/python/00C6FF" width="32" height="32"/><br/>Python</td>
-    <td align="center" width="140"><img src="https://cdn.simpleicons.org/powerbi/00C6FF" width="32" height="32"/><br/>Power BI</td>
+    <td align="center" width="140"><img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="32" height="32"/><br/>Power BI</td>
     <td align="center" width="140"><img src="https://cdn.simpleicons.org/mysql/00C6FF" width="32" height="32"/><br/>SQL</td>
     <td align="center" width="140"><img src="https://cdn.simpleicons.org/docker/00C6FF" width="32" height="32"/><br/>Docker</td>
   </tr>
   <tr>
-    <td align="center" width="140"><img src="https://cdn.simpleicons.org/amazonaws/00C6FF" width="32" height="32"/><br/>AWS</td>
+    <td align="center" width="140"><img src="https://api.iconify.design/logos:aws.svg" width="32" height="32"/><br/>AWS</td>
     <td align="center" width="140"><img src="https://cdn.simpleicons.org/git/00C6FF" width="32" height="32"/><br/>Git</td>
     <td align="center" width="140"><img src="https://cdn.simpleicons.org/jupyter/00C6FF" width="32" height="32"/><br/>Jupyter Notebook</td>
   </tr>
