@@ -102,7 +102,7 @@ fun_fact: Won the Hult Prize campus round 🏆
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blitzhac&theme=dark&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Blitzhac&theme=dark&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
