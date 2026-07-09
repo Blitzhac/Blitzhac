@@ -2,7 +2,7 @@
 
 <!-- Cursive animated name heading -->
 <a href="https://github.com/Blitzhac">
-  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=55&duration=3000&pause=100000&color=00C6FF&center=true&vCenter=true&width=650&height=90&repeat=false&lines=Hi+There%2C+I+am+Basil"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=55&duration=3000&pause=100000&color=00C6FF&center=true&vCenter=true&width=650&height=90&repeat=false&lines=Hi+There%2C+I+am+Basil+%F0%9F%91%8B"/>
 </a>
 
 <!-- Multi-line typing animation -->
@@ -90,8 +90,8 @@
 I'm actively open to Data Analytics, BI, Data Science, and ML Engineering roles — feel free to reach out!
 
 <p align="center">
-  <a href="www.linkedin.com/in/basil-anil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:basilanil8@gmail.com.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/basil-anil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:basilanil8@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
