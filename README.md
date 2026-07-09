@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Dynamic gradient wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%2C%20I%20am%20Basil%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+<!-- Cursive animated name heading -->
+<a href="https://github.com/Blitzhac">
+  <img src="https://readme-typing-svg.demolab.com/?font=Dancing+Script&weight=700&size=55&duration=3000&pause=100000&color=00C6FF&center=true&vCenter=true&width=650&height=90&repeat=false&lines=Hi+There%2C+I+am+Basil+%F0%9F%91%8B"/>
+</a>
 
 <!-- Multi-line typing animation -->
 <a href="https://github.com/Blitzhac">
@@ -18,29 +20,7 @@
 <!-- Socials -->
 <p align="center">
   <a href="https://github.com/Blitzhac"><img src="https://img.shields.io/badge/GitHub-Blitzhac-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### 🧭 About Me
-
-```yaml
-name: Basil
-location: Kerala, India 🇮🇳
-role: Data Analytics · Business Intelligence · ML Engineering
-currently: Interning @ Luminar Technolabs
-previously: KELTRON
-looking_for: Early-career opportunities in Data Science / Analytics / ML
-fun_fact: Won the Hult Prize campus round 🏆
-```
-
-- 🔭 Currently building **[datapure](https://github.com/Blitzhac/datapure)** — an open-source Python data cleaning library on PyPI, with Claude AI integration, Polars support, and 183+ passing tests
-- 📊 Built **SentinelIQ** — a fraud detection & BI platform processing 284k+ transactions (FAISS RAG, FastAPI, Docker, Streamlit — 0.97 ROC-AUC)
-- 📈 Designed a **Customer Churn & Revenue Risk Dashboard** in Power BI
-- 🧠 3⭐ HackerRank SQL — joins, subqueries, window functions, and beyond
-- 🌱 Always exploring new tools in the data & AI stack
 
 ---
 
@@ -113,6 +93,9 @@ fun_fact: Won the Hult Prize campus round 🏆
 
 I'm actively open to Data Analytics, BI, Data Science, and ML Engineering roles — feel free to reach out!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0F2027&height=100&section=footer"/>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
